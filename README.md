@@ -7,3 +7,5 @@ Removals: Entries are permanent unless a formal appeal is successful. Requests f
 Proprietary Logic: To maintain the effectiveness of our security measures, the source code for our Anti-Cheat system remains private.
 
 Purpose: This public database is maintained to accelerate detection speeds for us and provide developers with a shared resource for identifying known external bad actors.
+
+- Dynex Studios Corp
